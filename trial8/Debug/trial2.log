@@ -1,0 +1,7 @@
+﻿  joblist.cpp
+  list.cpp
+  Queue.cpp
+  trial2.cpp
+  Generating Code...
+D:\USM Study\SEM 3\CST 232\Assignment 1\trial9\trial8\list.cpp(486): warning C4715: 'list::listcheck': not all control paths return a value
+  trial2.vcxproj -> D:\USM Study\SEM 3\CST 232\Assignment 1\trial9\trial8\Debug\trial2.exe
